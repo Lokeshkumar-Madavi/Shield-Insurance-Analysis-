@@ -1,6 +1,8 @@
 
 # Shield Insurance Analysis 
 
+ * Check out the interactive dashboard: :("https://app.powerbi.com/view?r=eyJrIjoiYzI4MDJkODktMGIzZC00YmVhLWEyMmMtZTZkMGUzYTk4MzRhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" )
+
 ## 1. About - Shield Insurance Company
 
  * It oprates in 5 big cities: Delhi NCR, Chennai, Hyderabad, Indore, and Mumbai.
@@ -104,7 +106,7 @@
  * Arrange visuals into interactive pages
 
 ### 6. Sharing and Publishing 
-  * Here is Link :("https://app.powerbi.com/view?r=eyJrIjoiYzI4MDJkODktMGIzZC00YmVhLWEyMmMtZTZkMGUzYTk4MzRhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" )
+
 
  * Click Publish to share on Power BI Service
 
