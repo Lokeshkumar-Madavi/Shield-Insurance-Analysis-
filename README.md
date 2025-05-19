@@ -107,15 +107,25 @@
  ## 6. Key Insights
 
  * The month of March recorded both the highest number of customers and the highest revenue
+
  * Delhi NCR contributes 41% of total customers and revenue.
+
  * Indore contributes only 7.81% of customers and 8.22% of revenue lowest among all cities, indicating a need for focused improvement.
+
  * Age groups 31–40 and 41–50 contribute 61% of customers and generate 63% of total revenue.
+
  * Age group 18–24 shows low engagement and low revenue contribution so, here is key opportunity for growth.
+
  * Offline agent sales contribute 55.67% of revenue, indicating strong performance . Other modes  are lagging behind and needs improvement.
+
  * More than half of the customers use offline agents, so we need to work on making the other modes better.
+
  * Offline Direct made 40M in Nov 2022, but by April 2023, it only made 10M.
+
  * Policies P1, P3, and P2 are most preferred by customers especially in  31-40 age group.
+
  * Policy from P6-P9 is least preferred by the 18-24 age group.
+
  * Age groups 31-40 and 65+ projected higher expected settlement revenue of 319M.
 
 
