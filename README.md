@@ -16,26 +16,26 @@
 
  ## 3. Objectives to Achive
 
-  1. Customer and Revenue Overview:
+  ### 1. Customer and Revenue Overview:
   * Identify number of customers and total revenue.
   * Track daily customer and revenue growth rates.
 
-  2. Monthly Policy Analysis:
+  ### 2. Monthly Policy Analysis:
  * Monitor month-over-month policy changes to identify trends.
 
-  3. Customer Segmentation & Revenue Analysis:
+  ### 3. Customer Segmentation & Revenue Analysis:
  * Segment customers by age group.
  * Analyze revenue and customer count by city and age group.
 
-  4. Trend Visualization:
+  ### 4. Trend Visualization:
  * Create a toggle/switchable view between revenue trends and customer trends over time.
  * Enable filters for sales mode, age group, city, month, and policy ID.
 
-  5. Sales Mode Insights (on a separate dashboard/page):
+  ### 5. Sales Mode Insights (on a separate dashboard/page):
  * Calculate and show total customers and       revenue percentage split by sales mode.
  * Analyze monthly trend of each sales mode.
 
-  6. Age Group Insights (on a separate dashboard/page):
+ ###  6. Age Group Insights (on a separate dashboard/page):
  * Understand how age group impacts:
    * Expected settlement
    * Sales mode
@@ -43,7 +43,7 @@
 
 ## 4. Data and Tools Used
 
- Data
+###  Data
    * dim_date
    * dim_customer
    * dim_policies
@@ -52,7 +52,7 @@
 
  
  
-  Tools
+  ### Tools
  * Excel
  * Power Query Editor
  * Power BI
@@ -60,33 +60,40 @@
 
 ## 5. Action Performed
 
-  1. Data Loading (Importing Data)
+  ### 1. Data Loading (Importing Data)
 
   * Imported CSV files from Shield Insurance into Power Query: dim_date, dim_customer, dim_policies, fact_premiums, fact_settlements
 
-  2. Data Cleaning and Transformation (Power Query Editor)
+ ###  2. Data Cleaning and Transformation (Power Query Editor)
 
   * Remove null or duplicate values
+
   * Rename columns for clarity
+
   * Change data types (text, number, date, etc.)
+
   * Filter irrelevant rows
+
   * Create calculated columns using M language (Power Query Formula Language)
 
- 3. Data Modeling
+ ### 3. Data Modeling
 
  *  Create relationships between tables (one-to-many, many-to-one)
+
  * Create calculated columns and measures using DAX (Data Analysis Expressions)
+
  * Create hierarchies (e.g., Year → Quarter → Month)
+
  * Build star schema using (fact and dimension tables) 
 
- 4. Data Analysis (Using DAX)
+ ### 4. Data Analysis (Using DAX)
  * Use DAX to write measures ( Total Revenue, Total Customer, Daily Revenue Growth, Daily Customer Growth)
 
  * Perform time intelligence ( Month over month change %, Daily Customer Growth, Daily Revenue Growth)
 
  * Apply filters and slicers to slice data by Sales Mode, Age Group, City, Month, Policy.
 
- 5. Dashboard and Report Creation (Data Visualization)
+###  5. Dashboard and Report Creation (Data Visualization)
 
  * Use visuals like bar charts, line charts, pie charts, tables.
 
@@ -96,7 +103,7 @@
 
  * Arrange visuals into interactive pages
 
- 6. Sharing and Publishing
+### 6. Sharing and Publishing
 
  * Click Publish to share on Power BI Service
 
